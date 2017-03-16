@@ -1,0 +1,30 @@
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\bin\Debug\AniGifs.exe.config
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\bin\Debug\AniGifs.exe
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\bin\Debug\AniGifs.pdb
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\bin\Debug\AniGifs.xml
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.Form1.resources
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.Resources.resources
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.vbproj.GenerateResource.Cache
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.exe
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.xml
+C:\Users\Tommy\AppData\Local\Temporary Projects\AniGifs\obj\Debug\AniGifs.pdb
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.exe
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.xml
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.pdb
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.exe
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.pdb
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.xml
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.Form1.resources
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.Resources.resources
+C:\Users\Tommy\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.vbproj.GenerateResource.Cache
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.exe.config
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.exe
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.xml
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.pdb
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.exe
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.pdb
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\bin\Debug\AniGifs.xml
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.Form1.resources
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.Resources.resources
+C:\Users\Sockm\Documents\Visual Studio 2013\Projects\AniGifs\AniGifs\obj\Debug\AniGifs.vbproj.GenerateResource.Cache
