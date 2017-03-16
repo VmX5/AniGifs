@@ -5,4 +5,4 @@ AniGIF creates a window as big as your GIF to allow you to play your file withou
 ### Use:
 
   - Drag Gif File onto application.
-  - Set application as default GIF Application
+  - Associate application with .GIF extension
